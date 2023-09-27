@@ -47,4 +47,6 @@ Completed
 
 ## License
 
-MIT License
+You can find the License for this project [here](LICENSE.md)
+
+This project is licensed under the terms of the MIT license.
